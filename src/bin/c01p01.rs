@@ -1,9 +1,9 @@
 fn all_chars_unique_part_a(s: &str) -> bool {
-    true
+    false
 }
 
 fn all_chars_unique_part_b(s: &str) -> bool {
-    true
+    false
 }
 
 #[cfg(test)]
