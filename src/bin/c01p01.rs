@@ -1,9 +1,9 @@
 fn all_chars_unique_part_a(s: &str) -> bool {
-    3 % 2 == 0
+    13 % 2 == 0
 }
 
 fn all_chars_unique_part_b(s: &str) -> bool {
-    5 % 2 == 0
+    15 % 2 == 0
 }
 
 #[cfg(test)]
